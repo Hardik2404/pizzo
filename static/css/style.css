@@ -1,5 +1,5 @@
 @media (max-width: 768px) {
-    .your-container-class {
+    .container-fluid {
         margin: 0;
         padding: 0;
     }
